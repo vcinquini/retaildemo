@@ -1,0 +1,88 @@
+﻿2018-03-17 14:56:10.085 INFO  DefaultFactory Logging to 'D:\Projetos\RetailDemo\ClientUI\bin\Debug\' with level Info
+2018-03-17 14:56:12.258 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '17/03/2018'
+
+2018-03-17 14:56:12.341 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'NOTE-VALMIR\vcinq' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "NOTE-VALMIR\vcinq" /add
+2018-03-17 14:56:12.486 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-03-17 14:56:12.519 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-03-17 14:56:12.551 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-03-17 14:56:12.705 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:03:00.357 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = 0662c93a-44b0-4271-92ad-b138dc6d2dce
+2018-03-17 15:03:03.185 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:03:03.216 INFO  ClientUI.Program Unknown input. Please try again.
+2018-03-17 15:03:03.247 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:03:03.282 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = db8fd87f-9f63-4312-8fe2-a0a35c96e3b4
+2018-03-17 15:03:03.327 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:03:04.924 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = c994a573-5c17-49fc-b9d7-6c2d054a75e0
+2018-03-17 15:03:04.969 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:03:05.796 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = cceccc55-aa44-4102-a5fe-0c2a7ff80d13
+2018-03-17 15:03:05.840 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:03:07.299 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = b536d288-68e6-405b-a2f9-2056a43dd8f0
+2018-03-17 15:03:07.344 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:03:07.748 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = 3debfff5-71c0-40dd-85ad-b6c83e0c0785
+2018-03-17 15:03:07.791 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:03:08.052 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = 3541a21b-ac79-4440-993d-eb1ba8ef3901
+2018-03-17 15:03:08.097 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:03:08.299 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = 64935ad4-89a0-4c43-b5f0-f6f975a95094
+2018-03-17 15:03:08.343 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:03:08.539 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = d6e35287-cd4b-4d8f-991c-e7b292039be1
+2018-03-17 15:03:08.584 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:03:08.772 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = 497f7114-a7b4-4849-8465-86af03ab61c5
+2018-03-17 15:03:08.814 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:03:09.012 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = d77ec067-6371-41b4-96f3-2d6f8ebe9738
+2018-03-17 15:03:09.056 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:03:09.307 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = fe3d5b05-efca-4758-9bf3-497a262efae9
+2018-03-17 15:03:09.351 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:03:09.723 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = f0fd1dae-e4d4-4fa8-8cc0-5a1224999143
+2018-03-17 15:03:09.766 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:03:10.144 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = 64945a0f-6931-4917-8a8d-438caf6f4051
+2018-03-17 15:03:10.186 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:03:10.476 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = 4813428a-e4d6-435c-890a-8de04a4ce46e
+2018-03-17 15:03:10.518 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:03:10.800 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = 8c45a6c5-fcc1-4760-83a7-e714a61b25bc
+2018-03-17 15:03:10.844 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:03:11.003 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = e5ded30c-e3ff-4a99-85e7-eca334b58a74
+2018-03-17 15:03:11.049 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:03:11.188 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = a1319b7a-8064-4c67-be87-f6f6bc8abbc7
+2018-03-17 15:03:11.231 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:03:11.516 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = a30a1ac4-e097-40b0-b726-7133ab0d29a8
+2018-03-17 15:03:11.561 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:03:11.771 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = 6163c8be-129b-4bab-b738-d99b9ea70e0d
+2018-03-17 15:03:11.789 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:03:12.076 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = 921a5779-6958-48bc-ab18-ea5f7de639eb
+2018-03-17 15:03:12.120 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:03:12.427 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = d1c3ffbd-8065-4042-b829-dcffd11c0249
+2018-03-17 15:03:12.470 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:03:13.112 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = d2e4599f-dca0-4022-bdc1-4ed9787b4519
+2018-03-17 15:03:13.155 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:03:15.027 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = df0e61fc-e295-46f3-bd71-3d06abaaf7ea
+2018-03-17 15:03:15.090 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:04:59.725 INFO  DefaultFactory Logging to 'D:\Projetos\RetailDemo\ClientUI\bin\Debug\' with level Info
+2018-03-17 15:05:01.701 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '16/03/2018'
+
+2018-03-17 15:05:01.803 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'NOTE-VALMIR\vcinq' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "NOTE-VALMIR\vcinq" /add
+2018-03-17 15:05:01.896 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-03-17 15:05:01.929 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-03-17 15:05:01.967 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-03-17 15:05:02.092 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:05:20.033 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = d96b3ca1-f358-4765-97a0-bde1d39201d5
+
+
+2018-03-17 15:05:20.357 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:05:25.987 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = 9d65d4b2-0bb3-4402-90d0-b4738310012d
+
+
+2018-03-17 15:05:26.032 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:05:34.899 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = 3682367f-af51-47b5-8288-6bbe461595bd
+
+
+2018-03-17 15:05:34.943 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:05:36.236 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = c862ff35-c357-46d5-b5cd-09f3c0386a23
+
+
+2018-03-17 15:05:36.279 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.
+2018-03-17 15:05:37.187 INFO  ClientUI.Program Sending PlaceOrder command, OrderId = dc0ee60b-20c5-4177-8e49-5a72a637d7d8
+
+
+2018-03-17 15:05:37.230 INFO  ClientUI.Program Press 'P' to place an order, or 'Q' to quit.

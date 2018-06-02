@@ -1,0 +1,13 @@
+D:\Projetos\RetailDemo\Sales\bin\Debug\Sales.exe.config
+D:\Projetos\RetailDemo\Sales\bin\Debug\Sales.exe
+D:\Projetos\RetailDemo\Sales\bin\Debug\Sales.pdb
+D:\Projetos\RetailDemo\Sales\bin\Debug\Messages.dll
+D:\Projetos\RetailDemo\Sales\bin\Debug\NServiceBus.Core.dll
+D:\Projetos\RetailDemo\Sales\bin\Debug\Messages.pdb
+D:\Projetos\RetailDemo\Sales\bin\Debug\NServiceBus.Core.pdb
+D:\Projetos\RetailDemo\Sales\bin\Debug\NServiceBus.Core.xml
+D:\Projetos\RetailDemo\Sales\obj\Debug\Sales.csproj.CoreCompileInputs.cache
+D:\Projetos\RetailDemo\Sales\obj\Debug\Sales.csproj.CopyComplete
+D:\Projetos\RetailDemo\Sales\obj\Debug\Sales.exe
+D:\Projetos\RetailDemo\Sales\obj\Debug\Sales.pdb
+D:\Projetos\RetailDemo\Sales\obj\Debug\Sales.csprojAssemblyReference.cache

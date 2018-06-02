@@ -1,0 +1,210 @@
+﻿2018-03-17 14:56:11.776 INFO  DefaultFactory Logging to 'D:\Projetos\RetailDemo\Shipping\bin\Debug\' with level Info
+2018-03-17 14:56:12.299 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '16/03/2018'
+
+2018-03-17 14:56:12.386 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'NOTE-VALMIR\vcinq' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "NOTE-VALMIR\vcinq" /add
+2018-03-17 14:56:12.500 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-03-17 14:56:12.530 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-03-17 14:56:12.560 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-03-17 15:03:04.138 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = 0662c93a-44b0-4271-92ad-b138dc6d2dce
+Item = 1488235659 - Qty = 1942479723
+Status = Order placed. - Should we ship now?...
+2018-03-17 15:03:04.190 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = db8fd87f-9f63-4312-8fe2-a0a35c96e3b4
+Item = 781410717 - Qty = 1870548541
+Status = Order placed. - Should we ship now?...
+2018-03-17 15:03:04.247 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = 0662c93a-44b0-4271-92ad-b138dc6d2dce
+Item = 1488235659 - Qty = 1942479723
+Status = Credit card charged, order billed. - Should we ship now?...
+2018-03-17 15:03:04.309 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = db8fd87f-9f63-4312-8fe2-a0a35c96e3b4
+Item = 781410717 - Qty = 1870548541
+Status = Credit card charged, order billed. - Should we ship now?...
+2018-03-17 15:03:05.047 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = c994a573-5c17-49fc-b9d7-6c2d054a75e0
+Item = 629112137 - Qty = 1948803273
+Status = Order placed. - Should we ship now?...
+2018-03-17 15:03:05.102 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = c994a573-5c17-49fc-b9d7-6c2d054a75e0
+Item = 629112137 - Qty = 1948803273
+Status = Credit card charged, order billed. - Should we ship now?...
+2018-03-17 15:03:05.938 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = cceccc55-aa44-4102-a5fe-0c2a7ff80d13
+Item = 1526566329 - Qty = 249199061
+Status = Order placed. - Should we ship now?...
+2018-03-17 15:03:06.014 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = cceccc55-aa44-4102-a5fe-0c2a7ff80d13
+Item = 1526566329 - Qty = 249199061
+Status = Credit card charged, order billed. - Should we ship now?...
+2018-03-17 15:03:07.420 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = b536d288-68e6-405b-a2f9-2056a43dd8f0
+Item = 157323943 - Qty = 1056413709
+Status = Order placed. - Should we ship now?...
+2018-03-17 15:03:07.479 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = b536d288-68e6-405b-a2f9-2056a43dd8f0
+Item = 157323943 - Qty = 1056413709
+Status = Credit card charged, order billed. - Should we ship now?...
+2018-03-17 15:03:07.876 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = 3debfff5-71c0-40dd-85ad-b6c83e0c0785
+Item = 1810214563 - Qty = 1951498841
+Status = Order placed. - Should we ship now?...
+2018-03-17 15:03:07.953 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = 3debfff5-71c0-40dd-85ad-b6c83e0c0785
+Item = 1810214563 - Qty = 1951498841
+Status = Credit card charged, order billed. - Should we ship now?...
+2018-03-17 15:03:08.171 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = 3541a21b-ac79-4440-993d-eb1ba8ef3901
+Item = 204606447 - Qty = 1161678984
+Status = Order placed. - Should we ship now?...
+2018-03-17 15:03:08.248 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = 3541a21b-ac79-4440-993d-eb1ba8ef3901
+Item = 204606447 - Qty = 1161678984
+Status = Credit card charged, order billed. - Should we ship now?...
+2018-03-17 15:03:08.439 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = 64935ad4-89a0-4c43-b5f0-f6f975a95094
+Item = 711157233 - Qty = 1331494826
+Status = Order placed. - Should we ship now?...
+2018-03-17 15:03:08.514 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = 64935ad4-89a0-4c43-b5f0-f6f975a95094
+Item = 711157233 - Qty = 1331494826
+Status = Credit card charged, order billed. - Should we ship now?...
+2018-03-17 15:03:08.672 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = d6e35287-cd4b-4d8f-991c-e7b292039be1
+Item = 1026891301 - Qty = 298168123
+Status = Order placed. - Should we ship now?...
+2018-03-17 15:03:08.737 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = d6e35287-cd4b-4d8f-991c-e7b292039be1
+Item = 1026891301 - Qty = 298168123
+Status = Credit card charged, order billed. - Should we ship now?...
+2018-03-17 15:03:08.898 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = 497f7114-a7b4-4849-8465-86af03ab61c5
+Item = 1515131393 - Qty = 1253918007
+Status = Order placed. - Should we ship now?...
+2018-03-17 15:03:08.950 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = 497f7114-a7b4-4849-8465-86af03ab61c5
+Item = 1515131393 - Qty = 1253918007
+Status = Credit card charged, order billed. - Should we ship now?...
+2018-03-17 15:03:09.135 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = d77ec067-6371-41b4-96f3-2d6f8ebe9738
+Item = 212977609 - Qty = 1881967788
+Status = Order placed. - Should we ship now?...
+2018-03-17 15:03:09.200 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = d77ec067-6371-41b4-96f3-2d6f8ebe9738
+Item = 212977609 - Qty = 1881967788
+Status = Credit card charged, order billed. - Should we ship now?...
+2018-03-17 15:03:09.447 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = fe3d5b05-efca-4758-9bf3-497a262efae9
+Item = 310092358 - Qty = 339312751
+Status = Order placed. - Should we ship now?...
+2018-03-17 15:03:09.513 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = fe3d5b05-efca-4758-9bf3-497a262efae9
+Item = 310092358 - Qty = 339312751
+Status = Credit card charged, order billed. - Should we ship now?...
+2018-03-17 15:03:09.844 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = f0fd1dae-e4d4-4fa8-8cc0-5a1224999143
+Item = 1129316341 - Qty = 42358333
+Status = Order placed. - Should we ship now?...
+2018-03-17 15:03:09.921 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = f0fd1dae-e4d4-4fa8-8cc0-5a1224999143
+Item = 1129316341 - Qty = 42358333
+Status = Credit card charged, order billed. - Should we ship now?...
+2018-03-17 15:03:10.265 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = 64945a0f-6931-4917-8a8d-438caf6f4051
+Item = 600035314 - Qty = 224389386
+Status = Order placed. - Should we ship now?...
+2018-03-17 15:03:10.321 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = 64945a0f-6931-4917-8a8d-438caf6f4051
+Item = 600035314 - Qty = 224389386
+Status = Credit card charged, order billed. - Should we ship now?...
+2018-03-17 15:03:10.595 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = 4813428a-e4d6-435c-890a-8de04a4ce46e
+Item = 1507427399 - Qty = 1914336087
+Status = Order placed. - Should we ship now?...
+2018-03-17 15:03:10.671 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = 4813428a-e4d6-435c-890a-8de04a4ce46e
+Item = 1507427399 - Qty = 1914336087
+Status = Credit card charged, order billed. - Should we ship now?...
+2018-03-17 15:03:10.923 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = 8c45a6c5-fcc1-4760-83a7-e714a61b25bc
+Item = 1532567579 - Qty = 2112400615
+Status = Order placed. - Should we ship now?...
+2018-03-17 15:03:11.001 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = 8c45a6c5-fcc1-4760-83a7-e714a61b25bc
+Item = 1532567579 - Qty = 2112400615
+Status = Credit card charged, order billed. - Should we ship now?...
+2018-03-17 15:03:11.124 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = e5ded30c-e3ff-4a99-85e7-eca334b58a74
+Item = 901220888 - Qty = 2057849407
+Status = Order placed. - Should we ship now?...
+2018-03-17 15:03:11.182 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = e5ded30c-e3ff-4a99-85e7-eca334b58a74
+Item = 901220888 - Qty = 2057849407
+Status = Credit card charged, order billed. - Should we ship now?...
+2018-03-17 15:03:11.315 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = a1319b7a-8064-4c67-be87-f6f6bc8abbc7
+Item = 1568721316 - Qty = 1335220828
+Status = Order placed. - Should we ship now?...
+2018-03-17 15:03:11.385 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = a1319b7a-8064-4c67-be87-f6f6bc8abbc7
+Item = 1568721316 - Qty = 1335220828
+Status = Credit card charged, order billed. - Should we ship now?...
+2018-03-17 15:03:11.636 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = a30a1ac4-e097-40b0-b726-7133ab0d29a8
+Item = 1477606241 - Qty = 132373583
+Status = Order placed. - Should we ship now?...
+2018-03-17 15:03:11.701 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = a30a1ac4-e097-40b0-b726-7133ab0d29a8
+Item = 1477606241 - Qty = 132373583
+Status = Credit card charged, order billed. - Should we ship now?...
+2018-03-17 15:03:11.887 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = 6163c8be-129b-4bab-b738-d99b9ea70e0d
+Item = 77489663 - Qty = 1266245003
+Status = Order placed. - Should we ship now?...
+2018-03-17 15:03:11.967 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = 6163c8be-129b-4bab-b738-d99b9ea70e0d
+Item = 77489663 - Qty = 1266245003
+Status = Credit card charged, order billed. - Should we ship now?...
+2018-03-17 15:03:12.189 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = 921a5779-6958-48bc-ab18-ea5f7de639eb
+Item = 1763991301 - Qty = 1946840633
+Status = Order placed. - Should we ship now?...
+2018-03-17 15:03:12.264 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = 921a5779-6958-48bc-ab18-ea5f7de639eb
+Item = 1763991301 - Qty = 1946840633
+Status = Credit card charged, order billed. - Should we ship now?...
+2018-03-17 15:03:12.543 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = d1c3ffbd-8065-4042-b829-dcffd11c0249
+Item = 820886181 - Qty = 940475655
+Status = Order placed. - Should we ship now?...
+2018-03-17 15:03:12.607 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = d1c3ffbd-8065-4042-b829-dcffd11c0249
+Item = 820886181 - Qty = 940475655
+Status = Credit card charged, order billed. - Should we ship now?...
+2018-03-17 15:03:13.235 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = d2e4599f-dca0-4022-bdc1-4ed9787b4519
+Item = 738473119 - Qty = 977835154
+Status = Order placed. - Should we ship now?...
+2018-03-17 15:03:13.289 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = d2e4599f-dca0-4022-bdc1-4ed9787b4519
+Item = 738473119 - Qty = 977835154
+Status = Credit card charged, order billed. - Should we ship now?...
+2018-03-17 15:03:15.169 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = df0e61fc-e295-46f3-bd71-3d06abaaf7ea
+Item = 1343334007 - Qty = 1916139710
+Status = Order placed. - Should we ship now?...
+2018-03-17 15:03:15.234 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = df0e61fc-e295-46f3-bd71-3d06abaaf7ea
+Item = 1343334007 - Qty = 1916139710
+Status = Credit card charged, order billed. - Should we ship now?...
+2018-03-17 15:05:01.149 INFO  DefaultFactory Logging to 'D:\Projetos\RetailDemo\Shipping\bin\Debug\' with level Info
+2018-03-17 15:05:01.599 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '16/03/2018'
+
+2018-03-17 15:05:01.692 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'NOTE-VALMIR\vcinq' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "NOTE-VALMIR\vcinq" /add
+2018-03-17 15:05:01.805 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-03-17 15:05:01.835 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-03-17 15:05:01.866 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-03-17 15:05:21.262 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = d96b3ca1-f358-4765-97a0-bde1d39201d5
+Item = 1274988111 - Qty = 827262985
+Status = Order placed. - Should we ship now?...
+
+
+2018-03-17 15:05:21.454 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = d96b3ca1-f358-4765-97a0-bde1d39201d5
+Item = 1274988111 - Qty = 827262985
+Status = Credit card charged, order billed. - Should we ship now?...
+
+
+2018-03-17 15:05:26.137 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = 9d65d4b2-0bb3-4402-90d0-b4738310012d
+Item = 282032873 - Qty = 477644842
+Status = Order placed. - Should we ship now?...
+
+
+2018-03-17 15:05:26.184 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = 9d65d4b2-0bb3-4402-90d0-b4738310012d
+Item = 282032873 - Qty = 477644842
+Status = Credit card charged, order billed. - Should we ship now?...
+
+
+2018-03-17 15:05:35.033 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = 3682367f-af51-47b5-8288-6bbe461595bd
+Item = 1194949027 - Qty = 1200217508
+Status = Order placed. - Should we ship now?...
+
+
+2018-03-17 15:05:35.109 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = 3682367f-af51-47b5-8288-6bbe461595bd
+Item = 1194949027 - Qty = 1200217508
+Status = Credit card charged, order billed. - Should we ship now?...
+
+
+2018-03-17 15:05:36.388 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = c862ff35-c357-46d5-b5cd-09f3c0386a23
+Item = 1557245024 - Qty = 637335573
+Status = Order placed. - Should we ship now?...
+
+
+2018-03-17 15:05:36.452 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = c862ff35-c357-46d5-b5cd-09f3c0386a23
+Item = 1557245024 - Qty = 637335573
+Status = Credit card charged, order billed. - Should we ship now?...
+
+
+2018-03-17 15:05:37.312 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = dc0ee60b-20c5-4177-8e49-5a72a637d7d8
+Item = 1291800244 - Qty = 223865133
+Status = Order placed. - Should we ship now?...
+
+
+2018-03-17 15:05:37.375 INFO  Shipping.OrderShippedHandler SHIPPING - Received PlaceOrder, OrderId = dc0ee60b-20c5-4177-8e49-5a72a637d7d8
+Item = 1291800244 - Qty = 223865133
+Status = Credit card charged, order billed. - Should we ship now?...
+
+

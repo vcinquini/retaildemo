@@ -1,0 +1,13 @@
+D:\Projetos\RetailDemo\Billing\bin\Debug\Billing.exe.config
+D:\Projetos\RetailDemo\Billing\bin\Debug\Billing.exe
+D:\Projetos\RetailDemo\Billing\bin\Debug\Billing.pdb
+D:\Projetos\RetailDemo\Billing\bin\Debug\Messages.dll
+D:\Projetos\RetailDemo\Billing\bin\Debug\NServiceBus.Core.dll
+D:\Projetos\RetailDemo\Billing\bin\Debug\Messages.pdb
+D:\Projetos\RetailDemo\Billing\bin\Debug\NServiceBus.Core.pdb
+D:\Projetos\RetailDemo\Billing\bin\Debug\NServiceBus.Core.xml
+D:\Projetos\RetailDemo\Billing\obj\Debug\Billing.csproj.CoreCompileInputs.cache
+D:\Projetos\RetailDemo\Billing\obj\Debug\Billing.csproj.CopyComplete
+D:\Projetos\RetailDemo\Billing\obj\Debug\Billing.exe
+D:\Projetos\RetailDemo\Billing\obj\Debug\Billing.pdb
+D:\Projetos\RetailDemo\Billing\obj\Debug\Billing.csprojAssemblyReference.cache

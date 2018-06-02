@@ -1,0 +1,13 @@
+D:\Projetos\RetailDemo\Shipping\bin\Debug\Shipping.exe.config
+D:\Projetos\RetailDemo\Shipping\bin\Debug\Shipping.exe
+D:\Projetos\RetailDemo\Shipping\bin\Debug\Shipping.pdb
+D:\Projetos\RetailDemo\Shipping\bin\Debug\Messages.dll
+D:\Projetos\RetailDemo\Shipping\bin\Debug\NServiceBus.Core.dll
+D:\Projetos\RetailDemo\Shipping\bin\Debug\Messages.pdb
+D:\Projetos\RetailDemo\Shipping\bin\Debug\NServiceBus.Core.pdb
+D:\Projetos\RetailDemo\Shipping\bin\Debug\NServiceBus.Core.xml
+D:\Projetos\RetailDemo\Shipping\obj\Debug\Shipping.csproj.CoreCompileInputs.cache
+D:\Projetos\RetailDemo\Shipping\obj\Debug\Shipping.csproj.CopyComplete
+D:\Projetos\RetailDemo\Shipping\obj\Debug\Shipping.exe
+D:\Projetos\RetailDemo\Shipping\obj\Debug\Shipping.pdb
+D:\Projetos\RetailDemo\Shipping\obj\Debug\Shipping.csprojAssemblyReference.cache

@@ -1,0 +1,4 @@
+﻿2018-06-02 12:04:43.189 INFO  DefaultFactory Logging to 'D:\Projetos\RetailDemo\Billing\bin\Debug\' with level Info
+2018-06-02 12:04:43.907 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '16/03/2018'
+
+2018-06-02 12:04:43.954 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.

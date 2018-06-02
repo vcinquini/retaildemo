@@ -1,0 +1,13 @@
+D:\Projetos\RetailDemo\ClientUI\bin\Debug\ClientUI.exe.config
+D:\Projetos\RetailDemo\ClientUI\bin\Debug\ClientUI.exe
+D:\Projetos\RetailDemo\ClientUI\bin\Debug\ClientUI.pdb
+D:\Projetos\RetailDemo\ClientUI\bin\Debug\Messages.dll
+D:\Projetos\RetailDemo\ClientUI\bin\Debug\NServiceBus.Core.dll
+D:\Projetos\RetailDemo\ClientUI\bin\Debug\Messages.pdb
+D:\Projetos\RetailDemo\ClientUI\bin\Debug\NServiceBus.Core.pdb
+D:\Projetos\RetailDemo\ClientUI\bin\Debug\NServiceBus.Core.xml
+D:\Projetos\RetailDemo\ClientUI\obj\Debug\ClientUI.csproj.CoreCompileInputs.cache
+D:\Projetos\RetailDemo\ClientUI\obj\Debug\ClientUI.csproj.CopyComplete
+D:\Projetos\RetailDemo\ClientUI\obj\Debug\ClientUI.exe
+D:\Projetos\RetailDemo\ClientUI\obj\Debug\ClientUI.pdb
+D:\Projetos\RetailDemo\ClientUI\obj\Debug\ClientUI.csprojAssemblyReference.cache

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<license type="Trial" Applications="All" expiration="2018-07-02" id="bb8b7049-b2b8-45b8-a269-9f1dc0df34f5">
+  <name>vcinquini@msn.com</name>
+  <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+    <SignedInfo>
+      <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+      <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+      <Reference URI="">
+        <Transforms>
+          <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+        </Transforms>
+        <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <DigestValue>txQN791WlCautMv0XULpoT3TOnU=</DigestValue>
+      </Reference>
+    </SignedInfo>
+    <SignatureValue>tdtwrWqJPHWtarDo7d9RQ0+pQxCvVTPfvHb0lbZk8wKKu8qIdCplSkjErAfYLzxAgRcLpwDmBKcNAKgBx9NY6E9+EUR2URI/9CgG82+nrF8lFcaif+6+nYnSxkjupPB6SgR1iddhzoHs6Z5ks0nDCwbLHT4fBmMG+KDEc2B66lg=</SignatureValue>
+  </Signature>
+</license>

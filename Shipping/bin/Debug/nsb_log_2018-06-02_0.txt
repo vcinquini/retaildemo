@@ -1,0 +1,9 @@
+﻿2018-06-02 12:04:43.220 INFO  DefaultFactory Logging to 'D:\Projetos\RetailDemo\Shipping\bin\Debug\' with level Info
+2018-06-02 12:04:43.907 INFO  NServiceBus.LicenseManager No valid license could be found, falling back to trial license with start date '16/03/2018'
+
+2018-06-02 12:04:43.954 WARN  NServiceBus.LicenseManager Trial for the Particular Service Platform has expired.
+2018-06-02 12:04:44.048 INFO  NServiceBus.PerformanceMonitorUsersInstaller Did not attempt to add user 'NOTE-VALMIR\vcinq' to group 'Performance Monitor Users' since the process is not running with elevated privileges. Processing will continue. To manually perform this action, run the following command from an admin console:
+net localgroup "Performance Monitor Users" "NOTE-VALMIR\vcinq" /add
+2018-06-02 12:04:44.267 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs pulled from the input queue /sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-06-02 12:04:44.329 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs successfully processed / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
+2018-06-02 12:04:44.407 INFO  NServiceBus.PerformanceCounterHelper NServiceBus performance counter for '# of msgs failures / sec' is not set up correctly. To rectify this problem, consult the NServiceBus performance counters documentation.
